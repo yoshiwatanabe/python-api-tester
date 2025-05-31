@@ -1,1 +1,3 @@
 # python-api-tester
+
+This project provides a simple environment for testing Python APIs, with a focus on experimenting with the NewsAPI service. It includes example Jupyter notebooks for querying news articles using the NewsAPI, environment configuration for dependency management, and setup for secure API key usage. The workspace is designed for quick prototyping and demonstration of API requests, responses, and data visualization.
